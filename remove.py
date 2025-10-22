@@ -1,3 +1,3 @@
-subject=["sudipto","shojib","kapil","kaushik","raihan"]
-subject.remove("shojib")
-print(subject)
+a=['SUDIPTO','KAPIL','KAUSHIK','RAIHAN','SHOJIB']
+a.remove('SHOJIB')
+print(a)
