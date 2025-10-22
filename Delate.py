@@ -1,0 +1,2 @@
+b=['SUDIPTO','KAPIL','KAUSHIK','RAIHAN','SHOJIB']
+del b
