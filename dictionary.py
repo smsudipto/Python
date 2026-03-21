@@ -1,0 +1,41 @@
+dic_name={
+    'sudipto':1234,
+    'raihan':12345,
+    'shojib':123456,
+    'shishir':1234567
+}
+print(dic_name)
+print(dic_name['sudipto'])
+print(dic_name['raihan'])
+print(dic_name['shojib'])
+#
+phone_no=dict(
+{
+    'sudipto':1234,
+    'raihan':12345,
+    'shojib':123456,
+    'shishir':1234567
+}
+)
+print(dic_name)
+dic_name['sudipto']=9999
+dic_name['shojib']={1111,2222,3333,4444,5555,6666}
+dic_name['raihan']={'nick_name':'mota','roll':68,'work':'Software Company'}
+print(dic_name)
+data={
+    1:'janny',
+    2:'janna',
+    3:'janee',
+    4:'shojib',
+}
+print(data)
+print(data.keys())
+print(data.values())
+print(data.items())
+print(data[1])
+print(data[2])
+print(data[3])
+print(data[4])
+print(data.pop(3))
+print(data)
+print(data.clear())
