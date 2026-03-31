@@ -1,0 +1,5 @@
+a=open("myself.txt","a")
+a.write(" sudipto ")
+# a.write("My name is sudipto mandal.i am 23 years old .i live in dhaka at mirpur.")
+a.write(" sudipto ")
+a.close()
