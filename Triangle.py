@@ -1,0 +1,13 @@
+import turtle
+t=turtle.Turtle()
+turtle.setup(800,600)
+t.fillcolor("orange")
+t.begin_fill()
+t.pendown()
+t.forward(150)
+t.left(90)
+t.forward(150)
+t.left(135)
+t.forward(212)
+t.end_fill()
+turtle.mainloop()
